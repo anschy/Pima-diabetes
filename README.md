@@ -1,2 +1,2 @@
 # Pima-diabetes
-Code that can detect diabetes in a person 
+Code to detect the presence of diabetes in a person 
